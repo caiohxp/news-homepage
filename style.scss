@@ -1,0 +1,16 @@
+@import url(base/base.css);
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    &__menu{
+        display: flex;
+    }
+    &__item{
+        margin: 10px;
+    }
+}
+.main-section{
+    
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
